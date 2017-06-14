@@ -1,5 +1,5 @@
 {
-  "name": "Steven-Resume",
+  "name": "Javier-Resume",
   "version": "0.0.0",
   "description": "Azure TED Continous Integration Demo",
   "main": "app.js",
@@ -8,7 +8,7 @@
     "email": ""
   },
   "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html"
+	"test": "node ./node_modules/resume-cli/index.js export index -f html --theme kendall "
   },
   "dependencies": {
     "resume-cli": "^0.3.10"
