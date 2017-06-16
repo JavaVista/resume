@@ -1,16 +1,24 @@
 {
-  "name": "Steven-Resume",
-  "version": "0.0.0",
-  "description": "Azure TED Continous Integration Demo",
-  "main": "app.js",
-  "author": {
-    "name": "sedouard",
-    "email": ""
-  },
-  "scripts" : {
-	"test": "node ./node_modules/resume-cli/index.js export index -f html"
-  },
-  "dependencies": {
-    "resume-cli": "^0.3.10"
-  }
+	"name": "Javier-Resume",
+	"version": "0.0.0",
+	"description": "Azure TED Continous Integration Demo",
+	"main": "app.js",
+	"author": {
+		"name": "sedouard",
+		"email": ""
+	},
+	"scripts": {
+		"test": "node ./node_modules/resume-cli/index.js export index -f html --theme kendall "
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/JavaVista/resume.git"
+	},
+	"license": "MIT",
+	"bin": {
+		"resume": "index.js"
+	},
+	"dependencies": {
+		"resume-cli": "^0.3.10"
+	}
 }
