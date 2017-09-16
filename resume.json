@@ -1,130 +1,197 @@
 {
-    "basics": {
-        "name": "Javier Carrion",
-        "label": "Software Quality Assurance / Software Support Specialist",
-        "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA2pAAAAJDkxOTQzZTUyLWJkNzMtNGUwYi1hMDVmLTI0Nzk5ZGVlMjRiYQ.jpg",
-        "email": "javiercarrionjr@outlook.com",
-        "phone": "(561) 236-9963",
-        "website": "http://techno-logic.us",
-        "summary": "Professional with over 18 years of experience in the computer industry as a WAN/LAN technical specialist. Experience in Manual Testing for Software Quality Assurance (SQA). Background includes user support, systems installation, repair, maintenance, problem resolution, and purchasing new equipment. Proven record of success reducing down time and project time, increasing controls, and eliminating errors. Excel at creating test plans and writing/running test to pinpoint software defects, track bugs, close open defects and validate functionality. Serve as a value-adding member of QA teams. Knowledgeable in Selenium, Agile Methodology. Familiar with Object-Oriented Programming in C# .Net and Python.",
-        "location": {
-            "address": "985 Pipers Cay Drive",
-            "postalCode": "FL 33415",
-            "city": "West Palm Beach",
-            "countryCode": "US",
-            "region": "Florida"
-        },
-        "profiles": [
-            {
-                "network": "Twitter",
-                "username": "@seetechnologic",
-                "url": "https://twitter.com/seetechnologic"
-            },
-            {
-                "network": "Linkedin",
-                "username": "",
-                "url": "https://www.linkedin.com/in/technologic/"
-            }
-        ]
+  "basics": {
+    "name": "Javier Carrion",
+    "label": "Software Quality Assurance / Support Specialist",
+    "picture": "https://lh6.googleusercontent.com/r4AXhDoOgcNxxLaOtsIXoZSC3hcAyJleWeaAApzQLSlaVqj6xiGVWrupM62nD-LeKkhI4AbKLmxd0Uw=w1364-h678",
+    "email": "javiercarrionjr@outlook.com",
+    "phone": "",
+    "website": "http://www.techno-logic.us/",
+    "summary": "Detail-oriented professional with experience in the IT industry. Background includes user support, systems installation, repair, maintenance, and technology procurement. A meticulous experienced Manual Software QA tester with a proven record of reporting defects, reducing project time and ability to meet deadlines. Excel at creating test plans and writing/running tests to pinpoint software defects. ",
+    "location": {
+      "address": "",
+      "postalCode": "FL ",
+      "city": "West Palm Beach",
+      "countryCode": "US",
+      "region": "California"
     },
-    "work": [
-        {
-            "company": "QQ Solutions, Inc. a subsidiary of Vertafore, Inc.",
-            "position": "Quality Assurance Software Tester",
-            "website": "http://www.qqsolutions.com/",
-            "startDate": "2013-03-01",
-            "endDate": "2017-06-02",
-            "summary": "Identified, documented and reported bugs, errors, interoperability flaws and other issues within proprietary insurance software applications developed for QQSolutions's global user base. Worked in Agile Scrum Development Environment with frequently changing requirements and features set.",
-            "highlights": [
-                "Developed and executed test plans based on business requirements and technical design documents.",
-                "Preformed manual testing extensively: System and Regression of windows based, and web based applications.",
-                "Working extensively on testing manually the GUI functionality for Software as a Service (SaaS) Agency Management System (AMS)."
-            ]
-        }
-    ],
-    "volunteer": [
-        {
-            "organization": "",
-            "position": "",
-            "website": "",
-            "startDate": "2017-06-02",
-            "endDate": "2017-06-02",
-            "summary": "",
-            "highlights": [
-                ""
-            ]
-        }
-    ],
-    "education": [
-        {
-            "institution": "Academy of Business Careers",
-            "area": "Travel and Tourism Management",
-            "studyType": "A.A",
-            "startDate": "1985-06-01",
-            "endDate": "1987-01-01",
-            "gpa": "4.0",
-            "courses": [
-                "Attended numerous professional seminars, including American Society of Travel Agents, CT Chapter.",
-                ""
-            ]
-        }
-    ],
-    "awards": [
-        {
-            "title": "Digital Compression Pioneer Award",
-            "date": "2014-11-01",
-            "awarder": "Techcrunch",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "",
-            "publisher": "",
-            "releaseDate": "",
-            "website": "",
-            "summary": ""
-        }
-    ],
-    "skills": [
-        {
-            "name": "Web Development",
-            "level": "Master",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "Javascript"
-            ]
-        },
-        {
-            "name": "Compression",
-            "level": "Master",
-            "keywords": [
-                "Mpeg",
-                "MP4",
-                "GIF"
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "Spanish",
-            "fluency": "Fluent in Spanish and able to translate to English"
-        }
-    ],
-    "interests": [
-        {
-            "name": "",
-            "keywords": [
-                "",
-                ""
-            ]
-        }
-    ],
-    "references": [
-        {
-            "name": "",
-            "reference": ""
-        }
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "@seetechnologic",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "",
+        "url": "https://github.com/JavaVista"
+      },
+      {
+        "network": "Udacity",
+        "username": "",
+        "url": "https://profiles.udacity.com/p/4361959060"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "",
+        "url": "https://stackoverflow.com/users/5224387/codevista"
+      }
     ]
+  },
+  "work": [
+    {
+      "company": "QQ Solutions, Inc. a subsidiary of Vertafore, Inc. - Deerfield Beach, FL",
+      "position": "Software Quality Assurance Analyst / Software Support Specialist",
+      "website": "http://www.qqsolutions.com/",
+      "startDate": "2013",
+      "endDate": "",
+      "summary": "Identified, documented and reported bugs, errors, interoperability flaws, and other issues within proprietary insurance software applications developed for QQSolutions’s global user base. ",
+      "highlights": [
+        "●\tWorked in Agile Scrum Development Environment with frequently changing requirements and features set.",
+        "●\tDeveloped and executed test plans based on business requirements and technical design documents.",
+        "●\tPreformed manual testing extensively: System and Regression of windows based, and web based applications.",
+        "●\tWorking extensively on testing manually the GUI functionality for Software as a Service (SaaS) Agency Management System (AMS)."
+      ]
+    },
+    {
+      "company": "Support.com Inc. - West Palm Beach, FL",
+      "position": "Systems Engineer ",
+      "website": "https://www.support.com/",
+      "startDate": "2008",
+      "endDate": "2013",
+      "summary": "Remote Services Technician, provided inbound world-class customer service while resolving   complex issues for computer & mobile devices.",
+      "highlights": [
+        "●\tFound creative and sophisticated solutions to problems reported while using internal product suite through analytical & strong troubleshooting abilities.",
+        "●\tTook ownership of technical issues, and worked with Development group to resolve more advanced issues when necessary."
+      ]
+    },
+    {
+      "company": "Vision Care Holdings, LLC - Lake Worth, FL",
+      "position": "Level II Systems Support Specialist / Field Systems Engineer",
+      "website": "http://www.lasikvisioninstitute.com/",
+      "startDate": "2003",
+      "endDate": "2008",
+      "summary": "Researched and resolved issues escalated to Level II, assisting users with troubleshooting of hardware and software, Operating Systems, identifying problems and trends and providing solutions. Provided technical assistance to staff, assisting with network access, printing, and application software operation. Re-imaged laptops and maintained hardware infrastructure.",
+      "highlights": [
+        "●\tInstalled, maintained, & upgraded networks for one hundred and thirty-five stores in two companies (Eyeglass World & Lasik Vision Institute) and Corporate Headquarters.",
+        "●\tTraveled to different parts of the United State to support, upgrade and install Unix/Linux server network system for new & existing stores.",
+        "●\tUsed Numara Track-IT system to reviewed work orders to change, install, repair, and remove equipment. "
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Udacity Online School",
+      "area": "Introduction to Programming Nanodegree Graduate ",
+      "studyType": "",
+      "startDate": "2016",
+      "endDate": ".",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the Month - Going “above and beyond”",
+      "date": "2015-05",
+      "awarder": "QQ Solutions, Inc. a subsidiary of Vertafore, Inc.",
+      "summary": "Recognized for long hours, commitment to customers, attention to detail, professionalism, and follow-up.  "
+    },
+    {
+      "title": "Employee of the Month",
+      "date": "2005-05",
+      "awarder": "Vision Care Holdings, LLC",
+      "summary": "Working after hours, traveling to fix issues and at a moments notice, professionalism, and follow-up.  "
+    },
+    {
+      "title": "Great Attitude Commendation",
+      "date": "2001",
+      "awarder": "CompUSA Inc.",
+      "summary": "Commended for dedicated work ethic and rewarded by steady promotions and training in all aspects of work.  "
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Proficient ",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "Testing",
+      "level": "Proficient",
+      "keywords": [
+        "Functional",
+        "Security",
+        "Usability",
+        "Performance",
+        "Regression "
+      ]
+    },
+    {
+      "name": "Development Tools",
+      "level": "Proficient",
+      "keywords": [
+        "MS Visual Studio",
+        "Sublime Text",
+        "Notepad++"
+      ]
+    },
+    {
+      "name": "Defect Tracking tools",
+      "level": "Proficient",
+      "keywords": [
+        "Team Foundation Serve",
+        "Microsoft Test Manager"
+      ]
+    },
+    {
+      "name": "Database Management Tools",
+      "level": "Proficient",
+      "keywords": [
+        "SQL Server Management Studio",
+        "Robomongo MongoDB"
+      ]
+    },
+    {
+      "name": "Technical Writing",
+      "level": "Proficient",
+      "keywords": [
+        "How-to guides",
+        "Operating Instructions"
+      ]
+    },
+    {
+      "name": "Testing Tools",
+      "level": "Familiar",
+      "keywords": [
+        "Selenium",
+        "Fiddler"
+      ]
+    },
+    {
+      "name": "Programming Languages OOP",
+      "level": "Familiar",
+      "keywords": [
+        "C# .Net",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Fluent"
+    }
+  ],
+  "interests": [],
+  "references": []
 }
