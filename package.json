@@ -8,7 +8,7 @@ t{
 		"email": "javiercarrionjr@outlook.com"
 	},
 	"scripts": {
-		"test": "node ./node_modules/resume-cli/index.js export index -f html --theme kendall "
+		"test": "node ./node_modules/resume-cli/index.js export index -f html --theme kendall"
 	},
 	"repository": {
 		"type": "git",
