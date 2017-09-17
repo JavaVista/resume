@@ -1,11 +1,11 @@
 {
 	"name": "Javier-Resume",
 	"version": "0.0.0",
-	"description": "Azure TED Continous Integration Demo",
+	"description": "Azure Continous Integration Resume",
 	"main": "app.js",
 	"author": {
-		"name": "sedouard",
-		"email": ""
+		"name": "Javi",
+		"email": "javiercarrionjr@outlook.com"
 	},
 	"scripts": {
 		"test": "node ./node_modules/resume-cli/index.js export index -f html --theme kendall "
