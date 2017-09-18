@@ -1,6 +1,6 @@
 {
 	"name": "Javier-Resume",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Azure Continous Integration for my Resume",
 	"main": "app.js",
 	"author": {
